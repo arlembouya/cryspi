@@ -12,5 +12,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: arlembouya
-        password: xLfiU!Pus($XcF!O3vy%
+        password: xLfiU!Pus($XcF!03vy%
         server-dir : public_html/
